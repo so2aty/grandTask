@@ -9,6 +9,7 @@ import UIKit
 
 class Alerts {
     
+    
     static let instance = Alerts()
     
     func showAlert ( title : String , message: String) -> UIAlertController {
